@@ -50,5 +50,3 @@ Before running the code if you don't have all the necessery libraries, you need 
 ## Contact Me
 
 If you have something to say to me please contact me on [Twitter](https://twitter.com/Doguilmak). 
-# T-Shirt-K-Means-Clustering
-
