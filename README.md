@@ -38,7 +38,7 @@ For understanding the methodology you are free to visit the [K-Means clustering 
 
 ## How to Run Code
 
-Before running the code if you don't have all the necessery libraries, you need to have these libraries:
+Before running the code make sure that you have these libraries:
 
  - numpy 
  - pandas 
